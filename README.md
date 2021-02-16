@@ -10,7 +10,7 @@
 
 
 
-[![EMBEDED_VIDEO_LINK](https://img.youtube.com/vi/x1pEB6azNs8/0.jpg)](https://www.youtube.com/watch?v=x1pEB6azNs8){:target="_blank"}
+[![EMBEDED_VIDEO_LINK](https://img.youtube.com/vi/x1pEB6azNs8/0.jpg)](https://www.youtube.com/watch?v=x1pEB6azNs8)
 
 
 <br />
