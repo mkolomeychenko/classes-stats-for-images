@@ -5,7 +5,8 @@
 # Collection test
 
 
-[![SLY_EMBEDED_VIDEO_LINK](https://img.youtube.com/vi/x1pEB6azNs8/0.jpg)](https://www.youtube.com/watch?v=x1pEB6azNs8)
+[![SLY_EMBEDED_VIDEO_LINK](https://img.youtube.com/vi/SczzFM2Os_Y/0.jpg)](https://www.youtube.com/watch?v=SczzFM2Os_Y)
+
 
 
 # Modules
