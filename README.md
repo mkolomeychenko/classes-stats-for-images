@@ -5,11 +5,14 @@
 # Collection test
 
 
-[![EMBEDED_VIDEO_LINK](https://img.youtube.com/vi/x1pEB6azNs8/0.jpg)](https://www.youtube.com/watch?v=x1pEB6azNs8)
+[![SLY_EMBEDED_VIDEO_LINK](https://img.youtube.com/vi/x1pEB6azNs8/0.jpg)](https://www.youtube.com/watch?v=x1pEB6azNs8)
 
 
-<br />
+# Modules
 
+[supervisely-ecosystem/create-trainset-for-smarttool](SLY_MODULE_LINK)
+[supervisely-ecosystem/yolov5%252Fsupervisely%252Fserve](SLY_MODULE_LINK)
+[supervisely-ecosystem/nn-image-labeling%2Fannotation-tool](SLY_MODULE_LINK)
 
 
 <p align="center">
