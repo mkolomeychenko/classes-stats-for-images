@@ -3,11 +3,6 @@
 
 
 # Collection test
- 
- 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x1pEB6azNs8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 [![EMBEDED_VIDEO_LINK](https://img.youtube.com/vi/x1pEB6azNs8/0.jpg)](https://www.youtube.com/watch?v=x1pEB6azNs8)
