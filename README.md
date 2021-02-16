@@ -11,8 +11,8 @@
 # Modules
 
 [supervisely-ecosystem/create-trainset-for-smarttool](SLY_MODULE_LINK)
-[supervisely-ecosystem/yolov5%252Fsupervisely%252Fserve](SLY_MODULE_LINK)
-[supervisely-ecosystem/nn-image-labeling%2Fannotation-tool](SLY_MODULE_LINK)
+[supervisely-ecosystem/yolov5/supervisely/serve](SLY_MODULE_LINK)
+[supervisely-ecosystem/nn-image-labeling/annotation-tool](SLY_MODULE_LINK)
 
 
 <p align="center">
