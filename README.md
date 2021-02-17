@@ -5,21 +5,24 @@
 # Collection test
 
 
-[![SLY_EMBEDED_VIDEO_LINK](https://img.youtube.com/vi/SczzFM2Os_Y/0.jpg)](https://www.youtube.com/watch?v=SczzFM2Os_Y)
+<a data-key="sly-embeded-video-link" href="https://www.youtube.com/watch?v=SczzFM2Os_Y" data-video-code="SczzFM2Os_Y">
+    <img src="https://camo.githubusercontent.com/5e8c840f0ca410b15847df365375934e840c7b6f5639a694ca21ae9ab49fe8ba/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f53637a7a464d324f735f592f302e6a7067" alt="SLY_EMBEDED_VIDEO_LINK" data-canonical-src="https://img.youtube.com/vi/SczzFM2Os_Y/0.jpg" style="max-width:100%;">
+</a>
 
-
+<a data-key="sly-embeded-video-link" data-video-code="SczzFM2Os_Y" href="https://www.youtube.com/watch?v=SczzFM2Os_Y">
+    <img src="https://camo.githubusercontent.com/5e8c840f0ca410b15847df365375934e840c7b6f5639a694ca21ae9ab49fe8ba/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f53637a7a464d324f735f592f302e6a7067" alt="SLY_EMBEDED_VIDEO_LINK" data-canonical-src="https://img.youtube.com/vi/SczzFM2Os_Y/0.jpg" style="max-width:100%;" />
+</a>
 
 # Modules
 
 <div style="display: flex" markdown>
 
 
+<img  data-key="sly-module-link" data-module-slug="supervisely-ecosystem/create-trainset-for-smarttool" src="https://img.icons8.com/fluent/96/000000/fantasy.png" />
 
-[![SLY_MODULE_LINK](https://img.icons8.com/fluent/96/000000/fantasy.png)](supervisely-ecosystem/create-trainset-for-smarttool)
+<img  data-key="sly-module-link" data-module-slug="supervisely-ecosystem/yolov5/supervisely/serve" src="https://img.icons8.com/fluent/96/000000/fantasy.png" />
 
-[![SLY_MODULE_LINK](https://img.icons8.com/fluent/96/000000/fantasy.png)](supervisely-ecosystem/yolov5/supervisely/serve)
-
-[![SLY_MODULE_LINK](https://img.icons8.com/fluent/96/000000/fantasy.png)](supervisely-ecosystem/nn-image-labeling/annotation-tool)
+<img  data-key="sly-module-link" data-module-slug="supervisely-ecosystem/nn-image-labeling/annotation-tool" src="https://img.icons8.com/fluent/96/000000/fantasy.png" />
 
 
 
@@ -73,6 +76,20 @@ Choose the percentage of images that should be randomly sampled. By default all 
 
 
 # Modules
+
+<div style="display: flex" markdown>
+
+
+<img  data-key="sly-module-link" data-module-slug="supervisely-ecosystem/create-trainset-for-smarttool" src="https://img.icons8.com/fluent/96/000000/fantasy.png" />
+
+<img  data-key="sly-module-link" data-module-slug="supervisely-ecosystem/yolov5/supervisely/serve" src="https://img.icons8.com/fluent/96/000000/fantasy.png" />
+
+<img  data-key="sly-module-link" data-module-slug="supervisely-ecosystem/nn-image-labeling/annotation-tool" src="https://img.icons8.com/fluent/96/000000/fantasy.png" />
+
+
+
+</div>
+
 
 <div style="display: flex" markdown>
 
