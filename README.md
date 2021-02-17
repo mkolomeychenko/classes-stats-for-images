@@ -15,11 +15,11 @@
 
 
 
-[supervisely-ecosystem/create-trainset-for-smarttool](SLY_MODULE_LINK)
+[![SLY_MODULE_LINK](https://img.icons8.com/fluent/96/000000/fantasy.png)](supervisely-ecosystem/create-trainset-for-smarttool)
 
-[supervisely-ecosystem/yolov5/supervisely/serve](SLY_MODULE_LINK)
+[![SLY_MODULE_LINK](https://img.icons8.com/fluent/96/000000/fantasy.png)](supervisely-ecosystem/yolov5/supervisely/serve)
 
-[supervisely-ecosystem/nn-image-labeling/annotation-tool](SLY_MODULE_LINK)
+[![SLY_MODULE_LINK](https://img.icons8.com/fluent/96/000000/fantasy.png)](supervisely-ecosystem/nn-image-labeling/annotation-tool)
 
 
 
@@ -77,13 +77,11 @@ Choose the percentage of images that should be randomly sampled. By default all 
 <div style="display: flex" markdown>
 
 
+[![SLY_MODULE_LINK](https://img.icons8.com/fluent/96/000000/fantasy.png)](supervisely-ecosystem/create-trainset-for-smarttool)
 
-[supervisely-ecosystem/create-trainset-for-smarttool](SLY_MODULE_LINK)
+[![SLY_MODULE_LINK](https://img.icons8.com/fluent/96/000000/fantasy.png)](supervisely-ecosystem/yolov5/supervisely/serve)
 
-[supervisely-ecosystem/yolov5/supervisely/serve](SLY_MODULE_LINK)
-
-[supervisely-ecosystem/nn-image-labeling/annotation-tool](SLY_MODULE_LINK)
-
+[![SLY_MODULE_LINK](https://img.icons8.com/fluent/96/000000/fantasy.png)](supervisely-ecosystem/nn-image-labeling/annotation-tool)
 
 
 </div>
