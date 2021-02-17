@@ -66,6 +66,28 @@ Choose the percentage of images that should be randomly sampled. By default all 
 <img src="https://i.imgur.com/lI6jenf.png" width="400"/>
 
 
+
+
+[![SLY_EMBEDED_VIDEO_LINK](https://img.youtube.com/vi/SczzFM2Os_Y/0.jpg)](https://www.youtube.com/watch?v=SczzFM2Os_Y)
+
+
+
+# Modules
+
+<div style="display: flex" markdown>
+
+
+
+[supervisely-ecosystem/create-trainset-for-smarttool](SLY_MODULE_LINK)
+
+[supervisely-ecosystem/yolov5/supervisely/serve](SLY_MODULE_LINK)
+
+[supervisely-ecosystem/nn-image-labeling/annotation-tool](SLY_MODULE_LINK)
+
+
+
+</div>
+
 ### Step 3:  Open app
 
 Once app is started, new task appear in workspace tasks. Monitor progress from both "Tasks" list and from application page. To open report in a new tab click "Open" button. 
