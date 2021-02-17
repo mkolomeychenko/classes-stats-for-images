@@ -11,7 +11,7 @@
 
 # Modules
 
-<div markdown>
+<div style="display: flex" markdown>
 
 
 
