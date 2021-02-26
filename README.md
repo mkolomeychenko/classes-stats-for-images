@@ -9,6 +9,7 @@
     <img src="https://camo.githubusercontent.com/5e8c840f0ca410b15847df365375934e840c7b6f5639a694ca21ae9ab49fe8ba/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f53637a7a464d324f735f592f302e6a7067" alt="SLY_EMBEDED_VIDEO_LINK" data-canonical-src="https://img.youtube.com/vi/SczzFM2Os_Y/0.jpg" style="max-width:100%;">
 </a>
 
+
 <a data-key="sly-embeded-video-link" data-video-code="SczzFM2Os_Y" href="https://www.youtube.com/watch?v=SczzFM2Os_Y">
     <img src="https://camo.githubusercontent.com/5e8c840f0ca410b15847df365375934e840c7b6f5639a694ca21ae9ab49fe8ba/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f53637a7a464d324f735f592f302e6a7067" alt="SLY_EMBEDED_VIDEO_LINK" data-canonical-src="https://img.youtube.com/vi/SczzFM2Os_Y/0.jpg" style="max-width:100%;" />
 </a>
